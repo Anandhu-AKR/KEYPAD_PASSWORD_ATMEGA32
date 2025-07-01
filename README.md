@@ -153,7 +153,7 @@ void stop() {
 - Enter the password "123" to grant access.
 
 ## 📄 Files
-- `password_keypad.c)` — Complete source code
+- `password_keypad.c` — Complete source code
 - `keypad.png` — Circuit schematic
 - `README.md` — Project explanation
 
